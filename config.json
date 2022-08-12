@@ -5,7 +5,7 @@
         "autoGrabProxies": true,
         "proxiesType": "http" ,
         "proxiesfile": "./proxies/proxies.txt",
-        "debug": true,
+        "debug": false,
         "codesfile": "./codes/codes.txt",
 
         "endspoint": "https://discordapp.com/api/v9/entitlements/gift-codes/",
