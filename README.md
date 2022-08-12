@@ -90,6 +90,3 @@ apt update -y && apt upgrade -y && apt install git && apt install npm && git clo
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zguxmhrhwtzyozvmrrmqst2yo&cover_image=true&theme=default&bar_color=00ff00" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
