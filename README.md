@@ -82,6 +82,55 @@ apt update -y && apt upgrade -y && apt install git && apt install npm && git clo
 
 </td><td valign="top" width="50%">
 
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=MrVINIK&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zguxmhrhwtzyozvmrrmqst2yo&cover_image=true&theme=default&bar_color=00ff00" /></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+## Установка для консоли Ubuntu/Termux  
+apt update -y && apt upgrade -y  
+  
+
+apt install git && apt install npm  
+  
+
+git clone https://github.com/MrVINIK/ngen-v2 && cd ngen-v2  
+  
+
+npm i  
+  
+
+
+
+### Команды в одну строчку (CTRL + C, CTRL + V сразу)  
+apt update -y && apt upgrade -y && apt install git && apt install npm && git clone https://github.com/MrVINIK/ngen-v2 && cd ngen-v2 && npm i  
+  
+
+
+
+### Использование:  
+Команда "node generator" - сгенерировать коды\
+Команда "node checker" - начать их проверку  
+  
+
+<br/>  
+
+
+## Обо мне/доп. информация  
+<table><tr><td valign="top" width="50%">
+
+Мой Discord-сервер: https://discord.gg/vinikstudio | https://discord.gg/tm5Y4KmQwb  
+
+
+</td><td valign="top" width="50%">
+
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=MrVINIK&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=zguxmhrhwtzyozvmrrmqst2yo&cover_image=true&theme=default&bar_color=00ff00)
